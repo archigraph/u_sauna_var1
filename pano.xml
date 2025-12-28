@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node75" apprev="20981" appversion="7.1.7" hassounds="0">
+  <panorama id="node75" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" width="1750" leveltileurl="tiles/node75/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1750" overlap="1" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="1750" height="1750" preload="0" predecode="0"/>
+      <level width="875" height="875" preload="0" predecode="0"/>
+      <level width="437" height="437" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node75" source="" author="" latitude="" longitude="" title="" description="" info="" copyright="" customnodeid="" heading="0" tags="U_sauna_var1" comment="" datetime=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" border="1" width="180" enabled="0" borderalpha="1" height="20" wordwrap="1" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0xffffff" handcursor="1" mode="2" bordercolor="0x595959"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomout="0" blendcolor="0x000000" delay="none" zoomin="0" type="crossdissolve" zoomafterinfov="90" zoomspeed="2" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="1" rubberband="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="1" lockedmouse="0" sensitivity="8" speedwheel="1" simulatemass="1" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" author="" tags="" comment="" title="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map id="FloorPlan01" transparent="1" type="file" index="0" title="" bgcolor="rgba(255, 255, 255, 0)" width="3500" height="3500" zoomlevels="5" tileformat="png" floorplannorth="359.66" crispedges="0"/>
+</tour>
